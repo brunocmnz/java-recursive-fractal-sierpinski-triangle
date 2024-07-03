@@ -1,4 +1,5 @@
-# java-fractal-tri-ngulo-sierpinski
+# java-fractal-recursive-sierpinski-triangle
+
 Trabalho desenvolvido durante a disciplina de LAED (Laboratório de Algoritmo e Estrutura de Dados), do curso de Engenharia da Computação no Cefet MG de Timóteo MG.
 
 Os fractais são formas geométricas que possuem um padrão interessante em sua construção, formando figuras muitas vezes bonitas e intrigantes. Em um fractal, cada parte é similar ao todo. A área da Matemática que estuda os fractais é conhecida como Geometria dos fractais, que analisa as propriedades e o comportamento das figuras de alta complexidade.
