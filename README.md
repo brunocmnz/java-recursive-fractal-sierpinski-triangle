@@ -1,4 +1,4 @@
-# java-fractal-recursive-sierpinski-triangle
+# java-recursive-fractal-sierpinski-triangle
 
 Trabalho desenvolvido durante a disciplina de LAED (Laboratório de Algoritmo e Estrutura de Dados), do curso de Engenharia da Computação no Cefet MG de Timóteo MG.
 
