@@ -9,6 +9,7 @@ Fonte: [FRACTAIS](https://escolakids.uol.com.br/matematica/fractais.htm)
 
 O Triangulo de Sierpinski é um fractal formado por triângulos equiláteros, ao inserir triângulos menores dentro dos triângulos maiores. Este código, foi desenvolvido utilizando o conceito de recursividade, em que uma função chama por ela mesma. O desenho só inicia após ser calculado o menor triângulo, e então, os triângulos começam a aparecer na figura, de baixo para cima e da esquerda para direita, conforme é possível ver no Gif a seguir.
 
+Para iniciar o Gif, basta clicar nele.
 <div align="center">
   <img width="50%" src="/triangulo-sierpinsky-animacao.gif">
 </div>
